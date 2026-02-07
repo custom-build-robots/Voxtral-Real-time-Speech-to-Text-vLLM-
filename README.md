@@ -70,7 +70,6 @@ If you are accessing the server from a different location, open a terminal on yo
   ```bash
   ssh -L 7634:localhost:7634 ingmar@<your-server-ip>
 
-
 ### 4. Open in Browser
 Visit http://localhost:7634. Note: You must use localhost so the browser permits microphone access over an unencrypted connection.
 
